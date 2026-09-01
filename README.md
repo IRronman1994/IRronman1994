@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hei, jeg heter Marthine ##
+#### jeg er 15 år gammel ####
 
-<!--
-**IRronman1994/IRronman1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Interesser ###
+- sport
+  - basketball
+- lesing
+  - særlig pjo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Jeg valgte IM fordi jeg er innterisert i IT og medie.⋅⋅
+Dette skoleåret ønsker jeg å lære å programmere bra, lære redigering av bilde og video og jeg håper å ha det gøy.
+
+[Link til Gjennestad VGS] 
+<https://www.gjennestadvgs.no>
